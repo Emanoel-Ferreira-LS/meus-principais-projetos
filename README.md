@@ -16,6 +16,13 @@ Lista e descrição dos meus principais projetos finalizados e disponíveis onli
     <a href="https://emanoel-ferreira-ls.github.io/projeto-cordel/" target="_blank">Link pro site</a> <br>
      <a href="https://github.com/Emanoel-Ferreira-LS/projeto-cordel" target="_blank">Link pro Repositório</a>
   </li>
+
+   <li>
+    <h3>Menu Hamburguinho</h3>
+    <p>Site web responsivo, que demostra como criar o "menu hamburguinho". Tecnica muito usada para adaptar sites a dispositivos móveis utlizando as Medias Queries, fazendo com que o menu(em telas pequenas) seja "comprimido" dentro de um menu retratil, que quando clicado se espanda.<br> Além disso disponibiza os codigos dentro da página usando a tecnica de iframes, que incorporam  outras paginas com códigos dentro, fazendo com que o usuario do site possa ver e copiar o código no proprio site, além de que esse código não sofrerá alteração de indioma pois se encontra dentro das tags &lt;pre&gt; e &lt;code&gt; que matêm sua forma original, criando assim uma versão dos famosos campos de códigos das páginas relacionadas ao mundo da programação."</p>
+    <a href="https://emanoel-ferreira-ls.github.io/menu-hamburguinho/" target="_blank">Link pro site</a> <br>
+     <a href="https://github.com/Emanoel-Ferreira-LS/menu-hamburguinho" target="_blank">Link pro Repositório</a>
+  </li>
 </ul>
 
 
