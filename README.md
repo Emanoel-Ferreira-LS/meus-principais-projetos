@@ -25,10 +25,10 @@ Lista e descrição dos meus principais projetos finalizados e disponíveis onli
   </li>
 
    <li>
-    <h3>Tela de login responsiva</h3>
+    <h3>Inovaif News</h3>
     <p>Site CRUD com autenticação, ligada à publicação de notícias relacionadas ao IFSertãoPE. O site foi desenvolvido utilizando PHP para conexão com um banco de dados, e uma interface simples utilizando HTML e CSS para mostrar as noticias ao usuário, podendo também ser editadas, excluidas ou feita novas publicações. Apesar de ser um sistema simples, é a base de todo sistema web mais complexos, onde muitos usam  a linguagem PHP para o back-end do site, banco de dados MySQL e os mesmos métodos de Criação, Leitura, Atulaização e Exclusão de dodos do banco por meio de comandos do usuário pela interface.</p>
-    <a href="https://emanoel-ferreira-ls.github.io/projeto-login/" target="_blank">Link pro site</a> <br>
-     <a href="https://github.com/Emanoel-Ferreira-LS/projeto-login" target="_blank">Link pro Repositório</a>
+    <a target="_blank">Visualização não disponivel</a> <br>
+     <a href="https://github.com/Emanoel-Ferreira-LS/inovaif-news-projeto-crud-cs2-final" target="_blank">Link pro Repositório</a>
   </li>
 </ul>
 
